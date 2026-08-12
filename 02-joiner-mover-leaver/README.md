@@ -14,3 +14,23 @@ Arkham Asylum Health requires a controlled identity lifecycle process to ensure 
 - Arkham Asylum Health Fictional Workforce
 - GitHub
 - Stimulated HR Employee Data 
+
+## Joiner Scenario 
+
+A new employee joining Arkham Asylum Heath requires an identity to be created in Microsoft Entra ID with the appropriate employment attributes and baseline access. 
+
+##Joiner Test Employee 
+
+| Attributes | Value | 
+|---|---|
+| Employee ID | EMP101 |
+| Display Name | Bruce Wayne | 
+| Department | Compliance | 
+| Job Title | Compliance Analyst | 
+| Office Location | Austin, TX | 
+| Hire Date | September 15, 2026 | 
+| Usage Location | United States | 
+| Initial Access | Compliance-App | 
+
+## Expected Outcome 
+The new employee identity should be created in Microsoft Entra ID with the expected identity and employment attributes. Baseline access should be aligned with the employee's department and job function.
