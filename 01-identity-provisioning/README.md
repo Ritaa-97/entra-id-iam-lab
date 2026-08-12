@@ -1,153 +1,95 @@
-# Identity Provisioning 
+# Project 1 — Identity Provisioning
 
-## Objective 
+## Objective
 
 Create and provision a simulated workforce of 100 fictional employees in Microsoft Entra ID.
-## Business Scenario 
 
-Arkham Asylum Health requires a centralized identity platform to manage employees across multiple departments and support standardized identity and access management processes 
+## Business Scenario
 
-## Environment  
+Arkham Asylum Health requires a centralized identity platform to manage employees across multiple departments and support standardized identity and access management processes.
+
+## Environment
 
 - Microsoft Entra ID
-- Microsoft Entra Admin Center
-- Bulk User Provisioning
-- CSV-based identity data 
+- Microsoft Entra admin center
+- Bulk user provisioning
+- CSV-based identity data
 
 ## Employee Population
 
-The 100 simulated employees are distributed across departments as follow: 
-- IT: 25 employees
-- Clinical Operations: 20 Employees
-- Finance: 15 Employees
-- Human Resources : 15
-- Compliance: 10 employees
-- Sales: 10 employees
-- Executive: 5 employees
-**Total: 100 Employees**
+The simulated workforce consists of 100 employees across seven departments:
 
-## Employee Attributes
+| Department | Employees |
+|---|---:|
+| IT | 25 |
+| Clinical Operations | 20 |
+| Finance | 15 |
+| Human Resources | 15 |
+| Compliance | 10 |
+| Sales | 10 |
+| Executive | 5 |
+| **Total** | **100** |
 
-The simulated employee dataset contains attributes used to establish and manage employee identities:
+## Implementation
 
-- Employee ID — unique organizational identifier
-- First Name
-- Last name
+Two identity provisioning methods were demonstrated:
+
+1. Manual user provisioning
+2. Bulk user provisioning
+
+Manual provisioning was used to validate the identity creation process using Ava Johnson (EMP001). After validation, the remaining simulated workforce was provisioned using Microsoft Entra ID bulk creation and structured CSV data.
+
+Key identity attributes included:
+
+- Employee ID
 - Display Name
 - User Principal Name (UPN)
-- Department _ supports future access decisions
-- Job Title - identifies the employee's roles
-- Manager - supports identity life cycle scenarios 
+- Department
+- Job Title
+- Manager
 - Location
 - Access Tier
-- Initial Access
 
-## Identity Provisioning Approach
+## Testing
 
-  Arkham Asylum Health uses Microsoft Entra ID as its centralized identity platform. Two provisioning approaches are demonstrated in this lab:
-  1. Manual User Provisioning
-  2. Bulk User Provisioning
-  
-  Manual provisioning demonstrates the process of creating and validating an individual employee identity.
-  Bulk provisioning demonstrates how identity creation can be scaled across a larger workforce using structured CSV data.
+| Test | Expected Result | Status |
+|---|---|---|
+| Manual user creation | Identity created successfully | Passed |
+| Attribute validation | Expected attributes populated | Passed |
+| Bulk provisioning | Remaining users created successfully | Passed |
+| Directory validation | Provisioned users available in Entra ID | Passed |
+| Employee ID validation | Unique employee identifiers maintained | Passed |
 
-  The provisioning workflow is:
-  
-    HR Employee Data
-            ↓
-    Attribute Mapping
-            ↓
-    Identity Provisioning
-            ↓
-    Microsoft Entra ID
-            ↓
-    Identity Validation
+## Results
 
-  ## Manual Usr Provisioning
-  A single fictional employee was manually provisioned in Microsoft Entra ID to validate the individual identity creation process before performing bulk provisioning.
-  The test identity, Ava Johnson (EMP001), was created using attributes from the simulated HR employee dataset.
-  The manually provisioned identity was validated for:
-  - Display Name: Ava Johnson
-  - Employee ID: EMP001
-  - User Principal Name (UPN)
-  - Department: IT
-  - Job Title: Help Desk Analyst
-  - Employee Type: Full-Time
-  - Employee Hire Date: September 1, 2026
-  - Office Location: Austin, TX
-  - Company Name: Arkham Asylum Health
-  - Usage Location: United States
-  - Account Status: Enabled
- 
-  ## Manual Provisioning Evidence
-  The following evidence documents the manual identity provisioning and validation process:
-  - [Manual user validation](evidence/01-manual-user-validation.png)
-  - [Manual provisioning result](evidence/02-manual-provisioning-result.png)
-  - [Manual provisioning configuration](evidence/03-manual-provisioning-configuration.png)
-  
+100 fictional employee identities were successfully provisioned into Microsoft Entra ID.
 
- 
-## Provisioning Result 
+Manual provisioning was validated before bulk provisioning to confirm the expected identity attributes and provisioning process.
 
-**Status:** Passed
+## Evidence
 
-The Entra user profile was reviewed after creation to confirm that the expected identity and employment attributes were successfully populated.
- 
-## Bulk User Provisioning 
+### Manual Provisioning
 
-After validating the manual provisioning process, Microsoft Entra ID bulk creation is used to provision the remaining stimulated workforce using structured CSV data. 
-the Bulk Provisioning process includes: 
+- [01-manual-user-validation.png](./evidence/01-manual-user-validation.png) — Manual user validation
+- [02-manual-provisioning-result.png](./evidence/02-manual-provisioning-result.png) — Manual provisioning result
+- [03-manual-provisioning-configuration.png](./evidence/03-manual-provisioning-configuration.png) — Manual provisioning configuration
 
-- Preparing employee data
-- Mapping source attribute to Microsoft Entra fields
-- Validating the provisioning CSV
-- Uploading the CSV to Microsoft Entra ID
-- Reviewing the Bulk operation Results
-- Validating provisioned attributes
+### Bulk Provisioning
 
-## Bulk Provisioning Result
-
-**Status:** Passed
-The bulk provisioning operation successfully created the remaining simulated employee identities in Microsoft Entra ID.
-The resulting user population was reviewed in the Entra Admin Center to confirm that the expected identities were created and available in the directory.
-
-### Bulk Provisioning Evidence
-The following evidence documents the bulk provisioning and validation process:
-
-- [Bulk provisioning result](evidence/04-bulk-provisioning-result.png)
-- [Bulk user attribute validation](evidence/05-bulk-user-attribute-validation.png)
+- [04-bulk-provisioning-result.png](./evidence/04-bulk-provisioning-result.png) — Bulk provisioning result
+- [05-bulk-user-attribute-validation.png](./evidence/05-bulk-user-attribute-validation.png) — Bulk user attribute validation
 
 ## Security Considerations
 
-  All employees in this project are fictional.
-  No real employee, patient, password, or sensitive healthcare information
+All identities used in this project are fictional. No real employee, patient, password, credential, or sensitive healthcare information is included.
 
-## Evidence
-Screenshots will be captured and documented at each stage of the implementation to provide evidence of successful identity provisioning in Microsoft Entra ID
+## Lessons Learned
 
-  The following screenshots will be included:
-  - Bulk User Import Process (CSV upload screen in Microsoft Entra Admin Center)
-  - Successful Processing summary showing number of user created
-  - Sample Usr profile from Entra ID demonstrating attribute mapping (Employee ID, Department, Job Title, UPN)
-  - Directory User list conforming all 100 accounts exists
-  - Manual User test creation workflow in Entra Admin center
-  - Validation of Unique Employee ID assignment across all Users
- 
-Each screenshot will be labeled and stored in the /evidence/identity-provisioning/ directory within the GitHub repository to ensure compliance, audit readiness, and full traceability of the provisioning process.
+The project demonstrated the importance of validating identity data before account creation. Manual validation followed by bulk provisioning helped establish a consistent and scalable identity provisioning process.
 
-## Controls and Lessons Learned 
+## Skills Demonstrated
 
-This lab demonstrated several identity provisioning controls:
-- Standardized identity attributes were used to support consistent account creation.
-- Manual provisioning was validated before performing bulk provisioning.
-- Bulk provisioning reduced the need for repetitive manual account creation.
-- Provisioned identities were reviewed to confirm expected attributes were populated.
-- Unique employee identities were maintained within the source dataset.
-- Provisioning results were documented using screenshots as audit evidence.
-
-## Lessons Learned 
-
-The provisioning process demonstrated the importance of validating identity data before account creation. When using the bulk operation function, it is imperative to validate the source data to help reduce inaccurate records or incomplete identity records.  
+**Microsoft Entra ID | Identity Provisioning | Bulk User Management | CSV Provisioning | Attribute Mapping | Identity Validation | IAM Controls | Audit Evidence**
 
 
 
