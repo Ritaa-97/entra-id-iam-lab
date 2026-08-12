@@ -5,7 +5,7 @@
 Create and Provision Simulated workforce of 100 fictional employees in Microsoft Entra ID
 ## Business Scenario 
 
-Acme Health Systems requires a centralized identity platform to manage employees across multiple departments and support standardized identity and access management processes 
+Arkham Asylum Health requires a centralized identity platform to manage employees across multiple departments and support standardized identity and access management processes 
 
 ##Environment  
 
