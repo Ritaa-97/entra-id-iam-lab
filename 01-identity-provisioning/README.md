@@ -147,7 +147,7 @@ This lab demonstrated several identity provisioning controls:
 
 ## Lessons Learned 
 
-The provisioning process demonstrated the importance of validating identity data before account creation. When using the bulk operation function, it is imperative to validate the source data to help reduce inaccurate records or incomplete identity records 
+The provisioning process demonstrated the importance of validating identity data before account creation. When using the bulk operation function, it is imperative to validate the source data to help reduce inaccurate records or incomplete identity records.  
 
 
 
