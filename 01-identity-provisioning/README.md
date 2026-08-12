@@ -64,13 +64,26 @@ The simulated employee dataset contains attributes used to establish and manage 
     Identity Validation
 
   ## Manual Usr Provisioning
-  A single fictional employee is manually provisioned in Microsoft Entra ID to validate the individual identity creation process.
-  The manually provisioned identity is validated for:
-  - Display Name
+  A single fictional employee was manually provisioned in Microsoft Entra ID to validate the individual identity creation process before performing bulk provisioning.
+  The test identity, Ava Johnson (EMP001), was created using attributes from the simulated HR employee dataset.
+  The manually provisioned identity was validated for:
+  - Display Name: Ava Johnson
+  - Employee ID: EMP001
   - User Principal Name (UPN)
-  - Department
-  - Job Title
-  - Account Status
+  - Department: IT
+  - Job Title: Help Desk Analyst
+  - Employee Type: Full-Time
+  - Employee Hire Date: September 1, 2026
+  - Office Location: Austin, TX
+  - Company Name: Arkham Asylum Health
+  - Usage Location: United States
+  - Account Status: Enabled
+ 
+## Provisioning Result 
+
+**Status:** Passed
+
+The Entra user profile was reviewed after creation to confirm that the expected identity and employment attributes were successfully populated.
  
 ## Bulk User Provisioning 
 
@@ -93,7 +106,7 @@ the Bulk Provisioning process includes:
   | UPN validation | Valid tenant UPN | Pending |
   | Employee ID validation | Unique IDs | Pending |
   | Department validation | Correct department assigned | Pending |
-  | Manual user creation | User successfully created in Entra ID | Pending |
+  | Manual user creation | User successfully created in Entra ID | Pass |
   | Attribute consistency | Manual user matches schema structure | Pending |
   
 
