@@ -104,7 +104,18 @@ the Bulk Provisioning process includes:
 - Uploading the CSV to Microsoft Entra ID
 - Reviewing the Bulk operation Results
 - Validating provisioned attributes
-- 
+
+## Bulk Provisioning Result
+
+**Status:** Passed
+The bulk provisioning operation successfully created the remaining simulated employee identities in Microsoft Entra ID.
+The resulting user population was reviewed in the Entra Admin Center to confirm that the expected identities were created and available in the directory.
+
+### Bulk Provisioning Evidence
+The following evidence documents the bulk provisioning and validation process:
+
+- [Bulk provisioning result](evidence/04-bulk-provisioning-result.png)
+- [Bulk user attribute validation](evidence/05-bulk-user-attribute-validation.png)
 
   ##Testing
   | Test | Expected Result | Status|
