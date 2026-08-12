@@ -42,7 +42,7 @@ The simulated employee dataset contains attributes used to establish and manage 
 - Access Tier
 - Initial Access
 
-  ## Identity Provisioning Approach
+## Identity Provisioning Approach
 
   Arkham Asylum Health uses Microsoft Entra ID as its centralized identity platform. Two provisioning approaches are demonstrated in this lab:
   1. Manual User Provisioning
@@ -117,24 +117,12 @@ The following evidence documents the bulk provisioning and validation process:
 - [Bulk provisioning result](evidence/04-bulk-provisioning-result.png)
 - [Bulk user attribute validation](evidence/05-bulk-user-attribute-validation.png)
 
-  ##Testing
-  | Test | Expected Result | Status|
-  |---|---|---|
-  | 100 Users Submitted | 100 Users processed | Pending|
-  | User Creation | User Created successfully | Pending
-  | UPN validation | Valid tenant UPN | Pending |
-  | Employee ID validation | Unique IDs | Pending |
-  | Department validation | Correct department assigned | Pending |
-  | Manual user creation | User successfully created in Entra ID | Pass |
-  | Attribute consistency | Manual user matches schema structure | Pending |
-  
-
-  ## Security Considerations
+## Security Considerations
 
   All employees in this project are fictional.
   No real employee, patient, password, or sensitive healthcare information
 
-  ## Evidence
+## Evidence
   Screenshots will be captured and documented at each stage of the implementation to provide evidence of successful identity provisioning in Microsoft Entra ID
 
   The following screenshots will be included:
@@ -145,6 +133,6 @@ The following evidence documents the bulk provisioning and validation process:
   - Manual User test creation workflow in Entra Admin center
   - Validation of Unique Employee ID assignment across all Users
  
-  Each screenshot will be labeled and stored in the /evidence/identity-provisioning/ directory within the GitHub repository to ensure compliance, audit readiness, and full traceability of the provisioning process.
+Each screenshot will be labeled and stored in the /evidence/identity-provisioning/ directory within the GitHub repository to ensure compliance, audit readiness, and full traceability of the provisioning process.
 
   
