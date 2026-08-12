@@ -123,7 +123,7 @@ The following evidence documents the bulk provisioning and validation process:
   No real employee, patient, password, or sensitive healthcare information
 
 ## Evidence
-  Screenshots will be captured and documented at each stage of the implementation to provide evidence of successful identity provisioning in Microsoft Entra ID
+Screenshots will be captured and documented at each stage of the implementation to provide evidence of successful identity provisioning in Microsoft Entra ID
 
   The following screenshots will be included:
   - Bulk User Import Process (CSV upload screen in Microsoft Entra Admin Center)
@@ -134,5 +134,25 @@ The following evidence documents the bulk provisioning and validation process:
   - Validation of Unique Employee ID assignment across all Users
  
 Each screenshot will be labeled and stored in the /evidence/identity-provisioning/ directory within the GitHub repository to ensure compliance, audit readiness, and full traceability of the provisioning process.
+
+## Controls and Lessons Learned 
+
+This lab demonstrated several identity provisioning controls:
+- Standardized identity attributes were used to support consistent account creation.
+- Manual provisioning was validated before performing bulk provisioning.
+- Bulk provisioning reduced the need for repetitive manual account creation.
+- Provisioned identities were reviewed to confirm expected attributes were populated.
+- Unique employee identities were maintained within the source dataset.
+- Provisioning results were documented using screenshots as audit evidence.
+
+## Lessons Learned 
+
+The provisioning process demonstrated the importance of validating identity data before account creation. When using the bulk operation function, it is imperative to validate the source data to help reduce inaccurate records or incomplete identity records 
+
+
+
+
+
+
 
   
