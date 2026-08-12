@@ -79,6 +79,14 @@ The simulated employee dataset contains attributes used to establish and manage 
   - Usage Location: United States
   - Account Status: Enabled
  
+  ## Manual Provisioning Evidence
+  The following evidence documents the manual identity provisioning and validation process:
+  - [Manual user validation](evidence/01-manual-user-validation.png)
+  - [Manual provisioning result](evidence/02-manual-provisioning-result.png)
+  - [Manual provisioning configuration](evidence/03-manual-provisioning-configuration.png)
+  
+
+ 
 ## Provisioning Result 
 
 **Status:** Passed
