@@ -24,21 +24,7 @@ Configure Single Sign-On (SSO) using **Microsoft Entra ID** and **SAML 2.0**.
 
 ## Authentication Flow
 
-```text
-User
-  ↓
-SAML Toolkit
-  ↓
-Microsoft Entra ID
-  ↓
-Authentication
-  ↓
-SAML Assertion
-  ↓
-SAML Toolkit
-  ↓
-Access Granted
-```
+**User → SAML Toolkit → Microsoft Entra ID → Authentication → SAML Assertion → SAML Toolkit → Access Granted**
 
 ## Testing
 
