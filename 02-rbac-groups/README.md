@@ -99,10 +99,10 @@ Group-based access provides a centralized and repeatable method for managing app
 
 Evidence supporting the implementation is available in the [`evidence`](./evidence/) folder.
 
-- [01-enterprise-applications.png](./evidence/01-enterprise-applications.png) — Enterprise applications configured in Microsoft Entra ID
-- [02-department-security-groups.png](./evidence/02-department-security-groups.png) — Department security groups
-- [03-it-group-membership.png](./evidence/03-it-group-membership.png) — IT department group membership
-- [04-group-application-assignment.png](./evidence/04-group-application-assignment.png) — IT group-to-application assignment
+- [Enterprise applications](./evidence/01-enterprise-applications.png)
+- [Department security groups](./evidence/02-department-security-groups.png)
+- [IT group members](./evidence/03-it-group-members.png)
+- [IT application group assignment](./evidence/04-it-application-group-assignment.png)
 
 ## Outcome
 
