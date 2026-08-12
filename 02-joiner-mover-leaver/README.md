@@ -34,3 +34,15 @@ A new employee joining Arkham Asylum Heath requires an identity to be created in
 
 ## Expected Outcome 
 The new employee identity should be created in Microsoft Entra ID with the expected identity and employment attributes. Baseline access should be aligned with the employee's department and job function.
+
+## Joiner Result 
+
+**Status:** Passed 
+Bruce Wayne was successfully provisioned in Microsoft Entra ID as a new Compliance Analyst.
+The created identity was reviewed to confirm that the expected identity and employment attributes were populated correctly, including the employee ID, department, job title, employee type, hire date, office location, and usage location.
+The account was confirmed to be enabled.
+
+### Joiner Evidence
+- [Joiner user validation](evidence/01-joiner-user-validation.png)
+
+
