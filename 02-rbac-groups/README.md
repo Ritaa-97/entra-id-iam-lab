@@ -43,6 +43,7 @@ This approach reduces the need for direct user-to-application assignments and pr
 | **Total** | | **100** |
 
 All department groups were created as Microsoft Entra security groups with assigned membership.
+Note: The group membership total exceeds the workforce count because Ava Johnson and Bruce Wayne were added as test users to the IT and Compliance groups respectively.
 
 ## Application Access Model
 
