@@ -1,0 +1,101 @@
+Employee ID,First Name,Last Name,Display Name,User Principal Name,Department,Job Title,Manager,Hire Date,Employment Type,Location,Access Tier,Initial Access
+EMP001,Ava,Johnson,Ava Johnson,ava.johnson001@arkhamasylumhealth.example,IT,Help Desk Analyst,IT Manager,2026-09-01,Full-Time,"Austin, TX",Standard,IT-App
+EMP002,Marcus,Taylor,Marcus Taylor,marcus.taylor002@arkhamasylumhealth.example,IT,Systems Administrator,IT Manager,2026-09-02,Full-Time,"Austin, TX",Standard,IT-App
+EMP003,Sarah,Thompson,Sarah Thompson,sarah.thompson003@arkhamasylumhealth.example,IT,IAM Analyst,IT Manager,2026-09-03,Full-Time,"Austin, TX",Standard,IT-App
+EMP004,Daniel,Lee,Daniel Lee,daniel.lee004@arkhamasylumhealth.example,IT,Network Administrator,IT Manager,2026-09-04,Full-Time,"Austin, TX",Standard,IT-App
+EMP005,Maya,Scott,Maya Scott,maya.scott005@arkhamasylumhealth.example,IT,IT Support Specialist,IT Manager,2026-09-05,Full-Time,"Austin, TX",Standard,IT-App
+EMP006,Jordan,Campbell,Jordan Campbell,jordan.campbell006@arkhamasylumhealth.example,IT,Cloud Administrator,IT Manager,2026-09-06,Full-Time,"Austin, TX",Standard,IT-App
+EMP007,Olivia,Torres,Olivia Torres,olivia.torres007@arkhamasylumhealth.example,IT,Security Analyst,IT Manager,2026-09-07,Full-Time,"Austin, TX",Standard,IT-App
+EMP008,Ethan,Rogers,Ethan Rogers,ethan.rogers008@arkhamasylumhealth.example,IT,Systems Engineer,IT Manager,2026-09-08,Full-Time,"Austin, TX",Standard,IT-App
+EMP009,Sophia,Moore,Sophia Moore,sophia.moore009@arkhamasylumhealth.example,IT,Application Support Analyst,IT Manager,2026-09-09,Full-Time,"Austin, TX",Standard,IT-App
+EMP010,Noah,Martin,Noah Martin,noah.martin010@arkhamasylumhealth.example,IT,IT Operations Analyst,IT Manager,2026-09-10,Full-Time,"Austin, TX",Standard,IT-App
+EMP011,Amelia,Lewis,Amelia Lewis,amelia.lewis011@arkhamasylumhealth.example,IT,Help Desk Analyst,IT Manager,2026-09-11,Full-Time,"Austin, TX",Standard,IT-App
+EMP012,Liam,Wright,Liam Wright,liam.wright012@arkhamasylumhealth.example,IT,Systems Administrator,IT Manager,2026-09-12,Full-Time,"Austin, TX",Standard,IT-App
+EMP013,Isabella,Ramirez,Isabella Ramirez,isabella.ramirez013@arkhamasylumhealth.example,IT,IAM Analyst,IT Manager,2026-09-13,Full-Time,"Austin, TX",Standard,IT-App
+EMP014,James,Turner,James Turner,james.turner014@arkhamasylumhealth.example,IT,Network Administrator,IT Manager,2026-09-14,Full-Time,"Austin, TX",Standard,IT-App
+EMP015,Charlotte,Morris,Charlotte Morris,charlotte.morris015@arkhamasylumhealth.example,IT,IT Support Specialist,IT Manager,2026-09-15,Full-Time,"Austin, TX",Standard,IT-App
+EMP016,Benjamin,Wilson,Benjamin Wilson,benjamin.wilson016@arkhamasylumhealth.example,IT,Cloud Administrator,IT Manager,2026-09-16,Full-Time,"Austin, TX",Standard,IT-App
+EMP017,Harper,Harris,Harper Harris,harper.harris017@arkhamasylumhealth.example,IT,Security Analyst,IT Manager,2026-09-17,Full-Time,"Austin, TX",Standard,IT-App
+EMP018,Lucas,Rodriguez,Lucas Rodriguez,lucas.rodriguez018@arkhamasylumhealth.example,IT,Systems Engineer,IT Manager,2026-09-18,Full-Time,"Austin, TX",Standard,IT-App
+EMP019,Evelyn,King,Evelyn King,evelyn.king019@arkhamasylumhealth.example,IT,Application Support Analyst,IT Manager,2026-09-19,Full-Time,"Austin, TX",Standard,IT-App
+EMP020,Henry,Hill,Henry Hill,henry.hill020@arkhamasylumhealth.example,IT,IT Operations Analyst,IT Manager,2026-09-20,Full-Time,"Austin, TX",Standard,IT-App
+EMP021,Camila,Evans,Camila Evans,camila.evans021@arkhamasylumhealth.example,IT,Help Desk Analyst,IT Manager,2026-09-21,Full-Time,"Austin, TX",Standard,IT-App
+EMP022,Michael,Sanchez,Michael Sanchez,michael.sanchez022@arkhamasylumhealth.example,IT,Systems Administrator,IT Manager,2026-09-22,Full-Time,"Austin, TX",Standard,IT-App
+EMP023,Abigail,Miller,Abigail Miller,abigail.miller023@arkhamasylumhealth.example,IT,IAM Analyst,IT Manager,2026-09-23,Full-Time,"Austin, TX",Standard,IT-App
+EMP024,Alexander,White,Alexander White,alexander.white024@arkhamasylumhealth.example,IT,Network Administrator,IT Manager,2026-09-24,Full-Time,"Austin, TX",Standard,IT-App
+EMP025,Ella,Clark,Ella Clark,ella.clark025@arkhamasylumhealth.example,IT,IT Support Specialist,IT Manager,2026-09-25,Full-Time,"Austin, TX",Standard,IT-App
+EMP026,William,Young,William Young,william.young026@arkhamasylumhealth.example,Clinical Operations,Clinical Coordinator,Clinical Director,2026-09-26,Full-Time,"Austin, TX",Standard,ClinicalOperations-App
+EMP027,Scarlett,Nelson,Scarlett Nelson,scarlett.nelson027@arkhamasylumhealth.example,Clinical Operations,Clinical Operations Specialist,Clinical Director,2026-09-27,Full-Time,"Austin, TX",Standard,ClinicalOperations-App
+EMP028,Elijah,Phillips,Elijah Phillips,elijah.phillips028@arkhamasylumhealth.example,Clinical Operations,Patient Access Coordinator,Clinical Director,2026-09-28,Full-Time,"Austin, TX",Standard,ClinicalOperations-App
+EMP029,Grace,Stewart,Grace Stewart,grace.stewart029@arkhamasylumhealth.example,Clinical Operations,Clinical Systems Analyst,Clinical Director,2026-09-01,Full-Time,"Austin, TX",Standard,ClinicalOperations-App
+EMP030,Mateo,Davis,Mateo Davis,mateo.davis030@arkhamasylumhealth.example,Clinical Operations,Care Coordinator,Clinical Director,2026-09-02,Full-Time,"Austin, TX",Standard,ClinicalOperations-App
+EMP031,Chloe,Jackson,Chloe Jackson,chloe.jackson031@arkhamasylumhealth.example,Clinical Operations,Clinical Program Specialist,Clinical Director,2026-09-03,Full-Time,"Austin, TX",Standard,ClinicalOperations-App
+EMP032,Jackson,Robinson,Jackson Robinson,jackson.robinson032@arkhamasylumhealth.example,Clinical Operations,Clinical Operations Analyst,Clinical Director,2026-09-04,Full-Time,"Austin, TX",Standard,ClinicalOperations-App
+EMP033,Victoria,Allen,Victoria Allen,victoria.allen033@arkhamasylumhealth.example,Clinical Operations,Healthcare Operations Specialist,Clinical Director,2026-09-05,Full-Time,"Austin, TX",Standard,ClinicalOperations-App
+EMP034,Sebastian,Adams,Sebastian Adams,sebastian.adams034@arkhamasylumhealth.example,Clinical Operations,Clinical Coordinator,Clinical Director,2026-09-06,Full-Time,"Austin, TX",Standard,ClinicalOperations-App
+EMP035,Luna,Carter,Luna Carter,luna.carter035@arkhamasylumhealth.example,Clinical Operations,Clinical Operations Specialist,Clinical Director,2026-09-07,Full-Time,"Austin, TX",Standard,ClinicalOperations-App
+EMP036,Jack,Edwards,Jack Edwards,jack.edwards036@arkhamasylumhealth.example,Clinical Operations,Patient Access Coordinator,Clinical Director,2026-09-08,Full-Time,"Austin, TX",Standard,ClinicalOperations-App
+EMP037,Aria,Brown,Aria Brown,aria.brown037@arkhamasylumhealth.example,Clinical Operations,Clinical Systems Analyst,Clinical Director,2026-09-09,Full-Time,"Austin, TX",Standard,ClinicalOperations-App
+EMP038,Owen,Thomas,Owen Thomas,owen.thomas038@arkhamasylumhealth.example,Clinical Operations,Care Coordinator,Clinical Director,2026-09-10,Full-Time,"Austin, TX",Standard,ClinicalOperations-App
+EMP039,Nora,Martinez,Nora Martinez,nora.martinez039@arkhamasylumhealth.example,Clinical Operations,Clinical Program Specialist,Clinical Director,2026-09-11,Full-Time,"Austin, TX",Standard,ClinicalOperations-App
+EMP040,Samuel,Hall,Samuel Hall,samuel.hall040@arkhamasylumhealth.example,Clinical Operations,Clinical Operations Analyst,Clinical Director,2026-09-12,Full-Time,"Austin, TX",Standard,ClinicalOperations-App
+EMP041,Layla,Baker,Layla Baker,layla.baker041@arkhamasylumhealth.example,Clinical Operations,Healthcare Operations Specialist,Clinical Director,2026-09-13,Full-Time,"Austin, TX",Standard,ClinicalOperations-App
+EMP042,Leo,Roberts,Leo Roberts,leo.roberts042@arkhamasylumhealth.example,Clinical Operations,Clinical Coordinator,Clinical Director,2026-09-14,Full-Time,"Austin, TX",Standard,ClinicalOperations-App
+EMP043,Zoey,Collins,Zoey Collins,zoey.collins043@arkhamasylumhealth.example,Clinical Operations,Clinical Operations Specialist,Clinical Director,2026-09-15,Full-Time,"Austin, TX",Standard,ClinicalOperations-App
+EMP044,Gabriel,Williams,Gabriel Williams,gabriel.williams044@arkhamasylumhealth.example,Clinical Operations,Patient Access Coordinator,Clinical Director,2026-09-16,Full-Time,"Austin, TX",Standard,ClinicalOperations-App
+EMP045,Mila,Anderson,Mila Anderson,mila.anderson045@arkhamasylumhealth.example,Clinical Operations,Clinical Systems Analyst,Clinical Director,2026-09-17,Full-Time,"Austin, TX",Standard,ClinicalOperations-App
+EMP046,Carter,Garcia,Carter Garcia,carter.garcia046@arkhamasylumhealth.example,Finance,Financial Analyst,Finance Manager,2026-09-18,Full-Time,"Austin, TX",Standard,Finance-App
+EMP047,Hannah,Walker,Hannah Walker,hannah.walker047@arkhamasylumhealth.example,Finance,Senior Financial Analyst,Finance Manager,2026-09-19,Full-Time,"Austin, TX",Standard,Finance-App
+EMP048,Julian,Green,Julian Green,julian.green048@arkhamasylumhealth.example,Finance,Accounts Payable Specialist,Finance Manager,2026-09-20,Full-Time,"Austin, TX",Standard,Finance-App
+EMP049,Penelope,Mitchell,Penelope Mitchell,penelope.mitchell049@arkhamasylumhealth.example,Finance,Accounts Receivable Specialist,Finance Manager,2026-09-21,Full-Time,"Austin, TX",Standard,Finance-App
+EMP050,Wyatt,Parker,Wyatt Parker,wyatt.parker050@arkhamasylumhealth.example,Finance,Budget Analyst,Finance Manager,2026-09-22,Full-Time,"Austin, TX",Standard,Finance-App
+EMP051,Ava,Johnson,Ava Johnson,ava.johnson051@arkhamasylumhealth.example,Finance,Payroll Analyst,Finance Manager,2026-09-23,Full-Time,"Austin, TX",Standard,Finance-App
+EMP052,Marcus,Taylor,Marcus Taylor,marcus.taylor052@arkhamasylumhealth.example,Finance,Finance Operations Analyst,Finance Manager,2026-09-24,Full-Time,"Austin, TX",Standard,Finance-App
+EMP053,Sarah,Thompson,Sarah Thompson,sarah.thompson053@arkhamasylumhealth.example,Finance,Financial Analyst,Finance Manager,2026-09-25,Full-Time,"Austin, TX",Standard,Finance-App
+EMP054,Daniel,Lee,Daniel Lee,daniel.lee054@arkhamasylumhealth.example,Finance,Senior Financial Analyst,Finance Manager,2026-09-26,Full-Time,"Austin, TX",Standard,Finance-App
+EMP055,Maya,Scott,Maya Scott,maya.scott055@arkhamasylumhealth.example,Finance,Accounts Payable Specialist,Finance Manager,2026-09-27,Full-Time,"Austin, TX",Standard,Finance-App
+EMP056,Jordan,Campbell,Jordan Campbell,jordan.campbell056@arkhamasylumhealth.example,Finance,Accounts Receivable Specialist,Finance Manager,2026-09-28,Full-Time,"Austin, TX",Standard,Finance-App
+EMP057,Olivia,Torres,Olivia Torres,olivia.torres057@arkhamasylumhealth.example,Finance,Budget Analyst,Finance Manager,2026-09-01,Full-Time,"Austin, TX",Standard,Finance-App
+EMP058,Ethan,Rogers,Ethan Rogers,ethan.rogers058@arkhamasylumhealth.example,Finance,Payroll Analyst,Finance Manager,2026-09-02,Full-Time,"Austin, TX",Standard,Finance-App
+EMP059,Sophia,Moore,Sophia Moore,sophia.moore059@arkhamasylumhealth.example,Finance,Finance Operations Analyst,Finance Manager,2026-09-03,Full-Time,"Austin, TX",Standard,Finance-App
+EMP060,Noah,Martin,Noah Martin,noah.martin060@arkhamasylumhealth.example,Finance,Financial Analyst,Finance Manager,2026-09-04,Full-Time,"Austin, TX",Standard,Finance-App
+EMP061,Amelia,Lewis,Amelia Lewis,amelia.lewis061@arkhamasylumhealth.example,HR,HR Specialist,HR Manager,2026-09-05,Full-Time,"Austin, TX",Standard,HR-App
+EMP062,Liam,Wright,Liam Wright,liam.wright062@arkhamasylumhealth.example,HR,HR Business Partner,HR Manager,2026-09-06,Full-Time,"Austin, TX",Standard,HR-App
+EMP063,Isabella,Ramirez,Isabella Ramirez,isabella.ramirez063@arkhamasylumhealth.example,HR,Talent Acquisition Specialist,HR Manager,2026-09-07,Full-Time,"Austin, TX",Standard,HR-App
+EMP064,James,Turner,James Turner,james.turner064@arkhamasylumhealth.example,HR,HR Operations Analyst,HR Manager,2026-09-08,Full-Time,"Austin, TX",Standard,HR-App
+EMP065,Charlotte,Morris,Charlotte Morris,charlotte.morris065@arkhamasylumhealth.example,HR,Benefits Specialist,HR Manager,2026-09-09,Full-Time,"Austin, TX",Standard,HR-App
+EMP066,Benjamin,Wilson,Benjamin Wilson,benjamin.wilson066@arkhamasylumhealth.example,HR,People Operations Specialist,HR Manager,2026-09-10,Full-Time,"Austin, TX",Standard,HR-App
+EMP067,Harper,Harris,Harper Harris,harper.harris067@arkhamasylumhealth.example,HR,HR Specialist,HR Manager,2026-09-11,Full-Time,"Austin, TX",Standard,HR-App
+EMP068,Lucas,Rodriguez,Lucas Rodriguez,lucas.rodriguez068@arkhamasylumhealth.example,HR,HR Business Partner,HR Manager,2026-09-12,Full-Time,"Austin, TX",Standard,HR-App
+EMP069,Evelyn,King,Evelyn King,evelyn.king069@arkhamasylumhealth.example,HR,Talent Acquisition Specialist,HR Manager,2026-09-13,Full-Time,"Austin, TX",Standard,HR-App
+EMP070,Henry,Hill,Henry Hill,henry.hill070@arkhamasylumhealth.example,HR,HR Operations Analyst,HR Manager,2026-09-14,Full-Time,"Austin, TX",Standard,HR-App
+EMP071,Camila,Evans,Camila Evans,camila.evans071@arkhamasylumhealth.example,HR,Benefits Specialist,HR Manager,2026-09-15,Full-Time,"Austin, TX",Standard,HR-App
+EMP072,Michael,Sanchez,Michael Sanchez,michael.sanchez072@arkhamasylumhealth.example,HR,People Operations Specialist,HR Manager,2026-09-16,Full-Time,"Austin, TX",Standard,HR-App
+EMP073,Abigail,Miller,Abigail Miller,abigail.miller073@arkhamasylumhealth.example,HR,HR Specialist,HR Manager,2026-09-17,Full-Time,"Austin, TX",Standard,HR-App
+EMP074,Alexander,White,Alexander White,alexander.white074@arkhamasylumhealth.example,HR,HR Business Partner,HR Manager,2026-09-18,Full-Time,"Austin, TX",Standard,HR-App
+EMP075,Ella,Clark,Ella Clark,ella.clark075@arkhamasylumhealth.example,HR,Talent Acquisition Specialist,HR Manager,2026-09-19,Full-Time,"Austin, TX",Standard,HR-App
+EMP076,William,Young,William Young,william.young076@arkhamasylumhealth.example,Compliance,Compliance Analyst,Compliance Manager,2026-09-20,Full-Time,"Austin, TX",Standard,Compliance-App
+EMP077,Scarlett,Nelson,Scarlett Nelson,scarlett.nelson077@arkhamasylumhealth.example,Compliance,GRC Analyst,Compliance Manager,2026-09-21,Full-Time,"Austin, TX",Standard,Compliance-App
+EMP078,Elijah,Phillips,Elijah Phillips,elijah.phillips078@arkhamasylumhealth.example,Compliance,Privacy Analyst,Compliance Manager,2026-09-22,Full-Time,"Austin, TX",Standard,Compliance-App
+EMP079,Grace,Stewart,Grace Stewart,grace.stewart079@arkhamasylumhealth.example,Compliance,Risk Analyst,Compliance Manager,2026-09-23,Full-Time,"Austin, TX",Standard,Compliance-App
+EMP080,Mateo,Davis,Mateo Davis,mateo.davis080@arkhamasylumhealth.example,Compliance,Internal Controls Analyst,Compliance Manager,2026-09-24,Full-Time,"Austin, TX",Standard,Compliance-App
+EMP081,Chloe,Jackson,Chloe Jackson,chloe.jackson081@arkhamasylumhealth.example,Compliance,Compliance Analyst,Compliance Manager,2026-09-25,Full-Time,"Austin, TX",Standard,Compliance-App
+EMP082,Jackson,Robinson,Jackson Robinson,jackson.robinson082@arkhamasylumhealth.example,Compliance,GRC Analyst,Compliance Manager,2026-09-26,Full-Time,"Austin, TX",Standard,Compliance-App
+EMP083,Victoria,Allen,Victoria Allen,victoria.allen083@arkhamasylumhealth.example,Compliance,Privacy Analyst,Compliance Manager,2026-09-27,Full-Time,"Austin, TX",Standard,Compliance-App
+EMP084,Sebastian,Adams,Sebastian Adams,sebastian.adams084@arkhamasylumhealth.example,Compliance,Risk Analyst,Compliance Manager,2026-09-28,Full-Time,"Austin, TX",Standard,Compliance-App
+EMP085,Luna,Carter,Luna Carter,luna.carter085@arkhamasylumhealth.example,Compliance,Internal Controls Analyst,Compliance Manager,2026-09-01,Full-Time,"Austin, TX",Standard,Compliance-App
+EMP086,Jack,Edwards,Jack Edwards,jack.edwards086@arkhamasylumhealth.example,Sales,Account Executive,Sales Manager,2026-09-02,Full-Time,"Austin, TX",Standard,Sales-App
+EMP087,Aria,Brown,Aria Brown,aria.brown087@arkhamasylumhealth.example,Sales,Sales Operations Analyst,Sales Manager,2026-09-03,Full-Time,"Austin, TX",Standard,Sales-App
+EMP088,Owen,Thomas,Owen Thomas,owen.thomas088@arkhamasylumhealth.example,Sales,Sales Development Representative,Sales Manager,2026-09-04,Full-Time,"Austin, TX",Standard,Sales-App
+EMP089,Nora,Martinez,Nora Martinez,nora.martinez089@arkhamasylumhealth.example,Sales,Customer Success Manager,Sales Manager,2026-09-05,Full-Time,"Austin, TX",Standard,Sales-App
+EMP090,Samuel,Hall,Samuel Hall,samuel.hall090@arkhamasylumhealth.example,Sales,Sales Analyst,Sales Manager,2026-09-06,Full-Time,"Austin, TX",Standard,Sales-App
+EMP091,Layla,Baker,Layla Baker,layla.baker091@arkhamasylumhealth.example,Sales,Account Executive,Sales Manager,2026-09-07,Full-Time,"Austin, TX",Standard,Sales-App
+EMP092,Leo,Roberts,Leo Roberts,leo.roberts092@arkhamasylumhealth.example,Sales,Sales Operations Analyst,Sales Manager,2026-09-08,Full-Time,"Austin, TX",Standard,Sales-App
+EMP093,Zoey,Collins,Zoey Collins,zoey.collins093@arkhamasylumhealth.example,Sales,Sales Development Representative,Sales Manager,2026-09-09,Full-Time,"Austin, TX",Standard,Sales-App
+EMP094,Gabriel,Williams,Gabriel Williams,gabriel.williams094@arkhamasylumhealth.example,Sales,Customer Success Manager,Sales Manager,2026-09-10,Full-Time,"Austin, TX",Standard,Sales-App
+EMP095,Mila,Anderson,Mila Anderson,mila.anderson095@arkhamasylumhealth.example,Sales,Sales Analyst,Sales Manager,2026-09-11,Full-Time,"Austin, TX",Standard,Sales-App
+EMP096,Carter,Garcia,Carter Garcia,carter.garcia096@arkhamasylumhealth.example,Executive,Chief Information Officer,Chief Executive Officer,2026-09-12,Full-Time,"Austin, TX",Standard,Executive-App
+EMP097,Hannah,Walker,Hannah Walker,hannah.walker097@arkhamasylumhealth.example,Executive,Chief Financial Officer,Chief Executive Officer,2026-09-13,Full-Time,"Austin, TX",Standard,Executive-App
+EMP098,Julian,Green,Julian Green,julian.green098@arkhamasylumhealth.example,Executive,Chief People Officer,Chief Executive Officer,2026-09-14,Full-Time,"Austin, TX",Standard,Executive-App
+EMP099,Penelope,Mitchell,Penelope Mitchell,penelope.mitchell099@arkhamasylumhealth.example,Executive,Chief Compliance Officer,Chief Executive Officer,2026-09-15,Full-Time,"Austin, TX",Standard,Executive-App
+EMP100,Wyatt,Parker,Wyatt Parker,wyatt.parker100@arkhamasylumhealth.example,Executive,Chief Operating Officer,Chief Executive Officer,2026-09-16,Full-Time,"Austin, TX",Standard,Executive-App
